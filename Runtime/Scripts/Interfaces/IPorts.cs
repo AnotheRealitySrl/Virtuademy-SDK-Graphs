@@ -1,4 +1,4 @@
-namespace Virtuademy.SDK.Graphs
+﻿namespace SPACS.Graphs
 {
     ///////////////////////////////////////////////////////////////////////////
     /// <summary> Interface for input ports that allow only one connection </summary>

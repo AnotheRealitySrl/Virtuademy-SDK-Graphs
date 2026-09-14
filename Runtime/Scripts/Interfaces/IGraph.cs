@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Virtuademy.SDK.Graphs
+namespace SPACS.Graphs
 {
     ///////////////////////////////////////////////////////////////////////////
     /// <summary>

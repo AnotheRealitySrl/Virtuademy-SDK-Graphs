@@ -15,7 +15,7 @@ using GraphViewPort = UnityEditor.Experimental.GraphView.Port;
 using Object = UnityEngine.Object;
 
 
-namespace Virtuademy.SDK.Graphs.Editor
+namespace SPACS.Graphs.Editor
 {
     ///////////////////////////////////////////////////////////////////////////
     /// <summary>

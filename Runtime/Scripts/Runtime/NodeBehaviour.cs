@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Virtuademy.SDK.Graphs
+namespace SPACS.Graphs
 {
     ///////////////////////////////////////////////////////////////////////////
     /// <summary>

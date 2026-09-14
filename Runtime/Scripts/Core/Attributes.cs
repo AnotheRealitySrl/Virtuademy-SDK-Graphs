@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Virtuademy.SDK.Graphs
+namespace SPACS.Graphs
 {
     ///////////////////////////////////////////////////////////////////////////
     /// <summary>

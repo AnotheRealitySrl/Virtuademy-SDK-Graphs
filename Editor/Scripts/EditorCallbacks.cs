@@ -3,7 +3,7 @@ using UnityEditor.Callbacks;
 
 using UnityEngine;
 
-namespace Virtuademy.SDK.Graphs.Editor
+namespace SPACS.Graphs.Editor
 {
     ///////////////////////////////////////////////////////////////////////////
     /// <summary>

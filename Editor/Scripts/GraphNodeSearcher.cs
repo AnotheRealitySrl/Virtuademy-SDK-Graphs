@@ -1,4 +1,4 @@
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 
 using UnityEditor;
 using UnityEditor.Experimental.GraphView;
@@ -6,7 +6,7 @@ using UnityEditor.Experimental.GraphView;
 using UnityEngine;
 using UnityEngine.UIElements;
 
-namespace Virtuademy.SDK.Graphs.Editor
+namespace SPACS.Graphs.Editor
 {
     ///////////////////////////////////////////////////////////////////////////
     /// <summary>

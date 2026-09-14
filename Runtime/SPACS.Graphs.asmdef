@@ -1,6 +1,6 @@
-{
-    "name": "Virtuademy.SDK.Graphs",
-    "rootNamespace": "Virtuademy.SDK.Graphs",
+﻿{
+    "name": "SPACS.Graphs",
+    "rootNamespace": "SPACS.Graphs",
     "references": [
         "GUID:d5647bb6580a4a92a6e0f29c3a9707fa"
     ],

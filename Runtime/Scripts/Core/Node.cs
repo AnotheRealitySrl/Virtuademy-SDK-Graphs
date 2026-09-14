@@ -8,7 +8,7 @@ using System.Reflection;
 using UnityEngine;
 using UnityEngine.UIElements;
 
-namespace Virtuademy.SDK.Graphs
+namespace SPACS.Graphs
 {
     ///////////////////////////////////////////////////////////////////////////
     /// <summary>

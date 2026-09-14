@@ -3,7 +3,7 @@
 using UnityEngine;
 using UnityEngine.UIElements;
 
-namespace Virtuademy.SDK.Graphs.Editor
+namespace SPACS.Graphs.Editor
 {
     ///////////////////////////////////////////////////////////////////////////
     /// <summary>
