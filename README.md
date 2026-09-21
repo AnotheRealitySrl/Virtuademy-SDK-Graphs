@@ -1,4 +1,4 @@
-# Reflectis-Graphs
+# Virtuademy-SDK-Graphs
 
 - [Documentation here](Documentation~/index.md)
 - [Changelog here](CHANGELOG.md)

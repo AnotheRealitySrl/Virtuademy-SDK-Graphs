@@ -8,4 +8,4 @@ Alternatively, if you need to modify the content of the package, import it as a 
 
 Dependencies:
 
-- `https://github.com/AnotheRealitySrl/Reflectis-Core.git`
+- `com.anotherealitysrl.spacs-utility`
