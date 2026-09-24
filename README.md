@@ -1,4 +1,4 @@
-# Virtuademy-SDK-Graphs
+# SPACS-Graphs
 
 - [Documentation here](Documentation~/index.md)
 - [Changelog here](CHANGELOG.md)
