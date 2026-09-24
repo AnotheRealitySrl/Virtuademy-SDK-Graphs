@@ -1,16 +1,16 @@
 {
-  "name": "com.anotherealitysrl.virtuademy-sdk-graphs",
-  "displayName": "Virtuademy-SDK-Graphs",
-  "version": "2.0.0",
+  "name": "com.anotherealitysrl.spacs-graphs",
+  "displayName": "SPACS-Graphs",
+  "version": "3.0.0",
   "unity": "2020.1",
-  "description": "Virtuademy Graphs module",
+  "description": "Graphs module. Carries no platform: SPACS-Utility is its only first-party dependency.",
   "keywords": [
     "unity"
   ],
   "category": "Unity",
   "repository": {
     "type": "git",
-    "url": "https://github.com/AnotheRealitySrl/Virtuademy-SDK-Graphs"
+    "url": "https://github.com/AnotheRealitySrl/SPACS-Graphs"
   },
   "dependencies": {
     "com.anotherealitysrl.spacs-utility": "1.0.0"
